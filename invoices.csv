@@ -1,0 +1,6 @@
+Invoice ID,Client ID,Product ID,Invoice Date,Due Date,Amount ($),Payment Status,Payment Method
+INV001,1001,P001,2025-09-15,2025-09-30,15000,Pending,Bank Transfer
+INV002,1002,P002,2025-09-12,2025-09-27,10000,Pending,Credit Card
+INV003,1003,P003,2025-09-20,2025-10-05,25000,Pending,Wire Transfer
+INV004,1004,P004,2025-09-18,2025-10-03,8000,Pending,PayPal
+INV005,1005,P005,2025-09-06,2025-09-21,12000,Paid,Credit Card

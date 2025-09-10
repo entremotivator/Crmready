@@ -1,0 +1,6 @@
+Client ID,Client Name,Company,Contact Email,Phone,Sales Rep,Product Interested,Stage,Deal Value ($),Close Date,Notes
+1001,John Doe,TechCorp,john@techcorp.com,+1-555-1111,Alice Johnson,CRM Software,Negotiation,15000,2025-09-20,Needs discount approval
+1002,Jane Miller,HealthPlus,jane@healthplus.com,+1-555-2222,Bob Smith,HR Management,Prospecting,10000,2025-09-15,Follow-up required
+1003,Bob Carter,FinEdge,bob@finedge.com,+1-555-3333,Alice Johnson,ERP System,Proposal,25000,2025-10-01,Large deal - high priority
+1004,Lisa Wong,EduWorld,lisa@eduworld.com,+1-555-4444,Charlie Brown,LMS,Qualified,8000,2025-09-25,Request for case study
+1005,Tom Green,BuildPro,tom@buildpro.com,+1-555-5555,Bob Smith,Project Management,Closed Won,12000,2025-09-05,Implementation starts next week

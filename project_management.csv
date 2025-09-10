@@ -1,0 +1,6 @@
+Project ID,Client ID,Client Name,Company,Product ID,Project Name,Start Date,End Date,Project Manager,Team Members,Milestone,Milestone Due Date,Milestone Status,Overall Status,Progress (%),Priority,Last Update,Next Review Date,Notes
+PRJ1001,1001,John Doe,TechCorp,P001,CRM Implementation,2025-09-05,2025-12-05,Alex Smith,Dev A; Dev B,System Setup,2025-09-20,Completed,In Progress,35,High,2025-09-10,2025-09-18,Initial phase completed
+PRJ1002,1002,Jane Miller,HealthPlus,P002,HR Onboarding,2025-09-10,2025-11-30,Maria Lopez,HR Lead; Dev C,Payroll Module,2025-09-25,Pending,Not Started,0,Medium,2025-09-10,2025-09-17,Waiting for HR team approval
+PRJ1003,1003,Bob Carter,FinEdge,P003,ERP Rollout,2025-09-01,2026-01-15,David Lee,ERP Team; Finance Lead,Finance Integration,2025-09-30,In Progress,In Progress,20,High,2025-09-09,2025-09-16,Key strategic account
+PRJ1004,1004,Lisa Wong,EduWorld,P004,Edu LMS Setup,2025-09-15,2025-12-20,Alex Smith,Trainer A; Dev D,Course Import,2025-10-01,Pending,Not Started,0,Medium,2025-09-10,2025-09-20,Demo site prepared
+PRJ1005,1005,Tom Green,BuildPro,P005,Project Mgmt Suite,2025-09-12,2025-10-30,Maria Lopez,PM Lead; Dev E,Task Board Setup,2025-09-20,In Progress,In Progress,15,Low,2025-09-10,2025-09-17,Pilot program

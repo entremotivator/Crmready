@@ -1,0 +1,6 @@
+Ticket ID,Client ID,Product ID,Submission Date,Issue Type,Priority,Assigned Agent,Status,Resolution Date
+TKT1001,1001,P001,2025-09-10,Login Issue,High,Alex Smith,Resolved,2025-09-11
+TKT1002,1002,P002,2025-09-11,Payroll Bug,Medium,Sarah Johnson,Open,
+TKT1003,1003,P003,2025-09-12,Integration Error,High,David Lee,In Progress,
+TKT1004,1004,P004,2025-09-13,Course Upload Issue,Low,Emma White,Resolved,2025-09-14
+TKT1005,1005,P005,2025-09-14,Task Board Error,Medium,Tom Green,Open,

@@ -1,0 +1,6 @@
+FollowUp ID,Client ID,Product ID,Follow-Up Date,Outcome,Next Step,Next Follow-Up
+F001,1001,P001,2025-09-12,Requested discount,Send revised proposal,2025-09-15
+F002,1002,P002,2025-09-10,Left voicemail,Email follow-up,2025-09-13
+F003,1003,P003,2025-09-08,Meeting done,Send proposal,2025-09-12
+F004,1004,P004,2025-09-09,Requested demo,Scheduled demo,2025-09-14
+F005,1005,P005,2025-09-05,Closed won,Start onboarding,2025-09-07

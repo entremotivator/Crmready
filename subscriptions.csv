@@ -1,0 +1,6 @@
+Subscription ID,Client ID,Product ID,Plan,Start Date,End Date,Billing Cycle,Subscription Amount ($),Renewal Date,Status
+S001,1001,P001,Enterprise,2025-09-20,2026-09-20,Annual,15000,2026-09-20,Active
+S002,1002,P002,Pro,2025-09-15,2026-09-15,Annual,10000,2026-09-15,Active
+S003,1003,P003,Enterprise,2025-10-01,2026-10-01,Annual,25000,2026-10-01,Pending
+S004,1004,P004,Pro,2025-09-25,2026-09-25,Annual,8000,2026-09-25,Active
+S005,1005,P005,Pro,2025-09-05,2026-09-05,Annual,12000,2026-09-05,Active

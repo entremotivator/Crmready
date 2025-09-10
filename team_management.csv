@@ -1,0 +1,6 @@
+Team Member ID,Full Name,Role,Department,Email,Phone,Manager,Assigned Clients,Assigned Projects,Assigned Tickets,Primary Skills,Location,Availability (%),Start Date,Status,Notes
+T001,Alex Smith,Project Manager,Implementation,alex.smith@company.com,+1-555-1010,David Lee,"1001,1010","PRJ1001,PRJ1010","TKT1005, TKT1012","Agile, CRM, SaaS",New York,90,2022-03-15,Active,Leads enterprise rollouts
+T002,Maria Lopez,Customer Success,Client Success,maria.lopez@company.com,+1-555-2020,David Lee,"1002,1008","PRJ1002,PRJ1008",TKT1007,"Onboarding, Training, SaaS adoption",San Francisco,80,2021-11-01,Active,Manages onboarding
+T003,David Lee,Technical Director,Engineering,david.lee@company.com,+1-555-3030,CEO,"1003,1006,1009","PRJ1003,PRJ1006,PRJ1009",TKT1002,"Cloud, ERP, API, Integrations",Chicago,100,2020-01-20,Active,Heads engineering
+T004,Sarah Johnson,Support Agent,Support,sarah.j@company.com,+1-555-4040,Maria Lopez,1004,PRJ1004,"TKT1004, TKT1009","Troubleshooting, Ticket Management",Remote,70,2023-02-01,Active,Specializes in education clients
+T005,Tom Green,Sales Rep,Sales,tom.green@company.com,+1-555-5050,Sales Director,1005,PRJ1005,TKT1010,"Negotiation, SaaS Sales",Austin,85,2021-05-10,Active,Handles SMB accounts

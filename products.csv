@@ -1,0 +1,6 @@
+Product ID,Product Name,Category,Description,Package Options,Price ($),Target Industry
+P001,CRM Software,Sales,Customer relationship management tool,Basic/Pro/Enterprise,15000,Tech/Finance
+P002,HR Management,HR,Employee management system,Basic/Pro,10000,Healthcare/Corporate
+P003,ERP System,Finance,Enterprise resource planning solution,Enterprise,25000,Finance/Manufacturing
+P004,LMS,Education,Learning management system,Basic/Pro,8000,Education
+P005,Project Management,Operations,Collaboration and task tracking,Pro/Enterprise,12000,Construction/Tech
